@@ -1,4 +1,10 @@
-# miniscript
+---
+
+# Miniscript
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/17f9a871-e443-4d2b-b5bb-556ae88aa9ff" />
+
+---
 
 A small dynamically-typed scripting language — lexer, recursive-descent
 parser, static resolver, and tree-walking interpreter — implemented from
